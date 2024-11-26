@@ -79,16 +79,19 @@ Instálalas con el siguiente comando:
 ## 📊 Ejemplo de Visualizaciones Generadas
 
 1. **Distribución de Precios**:
-   ![Distribución de Precios](./images/price_distribution.png)
+   ![Distribución de Precios]('https://github.com/Jhon-Toro/StoreApp-Analyst/blob/master/distribucion_precio.png')
 
 2. **Precio Promedio por Categoría**:
-   ![Precio Promedio por Categoría](./images/avg_price_by_category.png)
+   ![Precio Promedio por Categoría]('https://github.com/Jhon-Toro/StoreApp-Analyst/blob/master/distribucion_precio_por_categoria.png')
 
-3. **Órdenes por Estado**:
-   ![Órdenes por Estado](./images/orders_by_status.png)
+3. **Calificación por Categoría**:
+   ![Calificación por Categoría]('https://github.com/Jhon-Toro/StoreApp-Analyst/blob/master/calificacion_por_categoria.png')
 
-4. **Relación Precio vs Calificación**:
-   ![Relación Precio vs Calificación](./images/price_vs_rating.png)
+4. **Productos por Categoría**:
+   ![Productos por Categoría]('https://github.com/Jhon-Toro/StoreApp-Analyst/blob/master/productos_por_categoria.png')
+
+5. **Ordenes por día**:
+   ![Ordenes por día]('https://github.com/Jhon-Toro/StoreApp-Analyst/blob/master/Ordenes_Por_D%C3%ADa.png)
 
 ---
 
